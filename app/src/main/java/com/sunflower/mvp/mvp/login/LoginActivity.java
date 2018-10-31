@@ -39,7 +39,7 @@ public class LoginActivity extends Activity implements ILoginView, View.OnClickL
     }
 
     private void initData() {
-        Params
+
     }
 
     @Override

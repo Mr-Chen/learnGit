@@ -13,6 +13,7 @@ public class LoginPresenter implements ILoginPresenter {
     public LoginPresenter(ILoginView loginView) {
         this.loginView = loginView;
         this.loginModel = new LoginModel(this);
+
     }
 
     @Override
