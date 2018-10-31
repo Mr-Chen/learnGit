@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         TextView branchOne;
     }
 
-
     /**
      * 如果打开不保留活动则提示用户
      */
