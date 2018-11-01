@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         initNoActivity();
 
         TextView branchOne;
+        Button branch01;
     }
 
     /**
