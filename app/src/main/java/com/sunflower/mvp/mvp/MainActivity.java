@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         TextView tv;
+        Button buttonMaster;
     }
 }
